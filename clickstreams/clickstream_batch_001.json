@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": "evt_98712",
+    "user_id": "usr_554",
+    "event_timestamp": "2026-03-17T11:35:00Z",
+    "page_url": "/category/shoes",
+    "action": "page_view",
+    "device": "mobile"
+  },
+  {
+    "event_id": "evt_98713",
+    "user_id": "usr_554",
+    "event_timestamp": "2026-03-17T11:36:12Z",
+    "page_url": "/product/sneakers-pro",
+    "action": "add_to_cart",
+    "device": "mobile"
+  }
+]

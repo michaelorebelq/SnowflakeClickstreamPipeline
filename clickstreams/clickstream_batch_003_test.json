@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "evt_98716",
+    "user_id": "usr_102",
+    "event_timestamp": "2026-03-17T15:20:00Z",
+    "page_url": "/category/electronics",
+    "action": "page_view",
+    "device": "tablet"
+  },
+  {
+    "event_id": "evt_98717",
+    "user_id": "usr_102",
+    "event_timestamp": "2026-03-17T15:22:15Z",
+    "page_url": "/product/noise-cancelling-headphones",
+    "action": "add_to_cart",
+    "device": "tablet"
+  },
+  {
+    "event_id": "evt_98718",
+    "user_id": "usr_102",
+    "event_timestamp": "2026-03-17T15:25:00Z",
+    "page_url": "/checkout",
+    "action": "purchase",
+    "device": "tablet"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": "evt_98722",
+    "user_id": "usr_777",
+    "event_timestamp": "2026-03-17T16:15:00Z",
+    "page_url": "/courses/snowpro-advanced-engineer",
+    "action": "page_view",
+    "device": "mobile"
+  },
+  {
+    "event_id": "evt_98723",
+    "user_id": "usr_777",
+    "event_timestamp": "2026-03-17T16:18:45Z",
+    "page_url": "/cart",
+    "action": "add_to_cart",
+    "device": "mobile"
+  }
+]

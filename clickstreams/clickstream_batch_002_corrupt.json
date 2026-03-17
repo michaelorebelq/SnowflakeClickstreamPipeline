@@ -1,0 +1,15 @@
+[
+  {
+    "event_id": "evt_98714",
+    "user_id": "usr_881",
+    "event_timestamp": "2026-03-17T11:40:00Z",
+    "page_url": "/checkout"
+    "action": "purchase" 
+    "device": "desktop"
+  },
+  {
+    "event_id": "evt_98715",
+    "user_id": "usr_881"
+    "event_timestamp": "2026-03-17T11:41:00Z"
+    "page_url": "/thank-you"
+    "action": "page_view"
